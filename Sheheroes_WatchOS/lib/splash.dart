@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:sheheroes_watchos/safehome.dart';
@@ -6,9 +6,9 @@ import 'package:sheheroes_watchos/safehome.dart';
 class Splash extends StatefulWidget {
   @override
   _SplashState createState() => _SplashState();
-}
+}*/
 
-class _SplashState extends State<Splash> {
+/*class _SplashState extends State<Splash> {
   @override
   void initState() {
     super.initState();
@@ -41,3 +41,4 @@ class _SplashState extends State<Splash> {
     );
   }
 }
+*/

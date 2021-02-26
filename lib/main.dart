@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:hardware_buttons/hardware_buttons.dart' as HardwareButtons;
 import 'package:provider/provider.dart';
@@ -20,7 +19,7 @@ import 'package:safety/ui/splash.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  // await Firebase.initializeApp();
+  //await Firebase.initializeApp();
   setupLocator();
   runApp(MyApp());
 }
